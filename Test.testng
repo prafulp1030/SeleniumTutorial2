@@ -1,0 +1,9 @@
+<suite name="project name">
+
+   <test name ="Test1>
+      <classes>
+          <class name="test.Demo1" />
+      </classes>
+  </test>
+
+</suite>
